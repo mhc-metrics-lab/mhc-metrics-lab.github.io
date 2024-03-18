@@ -1,6 +1,6 @@
 ---
 title: Tour
-date: 2022-10-24
+date: 2024-03-18
 
 type: landing
 
@@ -8,36 +8,46 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Welcome to the METRICS Lab
+        content: We do Mixed Expertise Textual Research in Cultural Sociology.  
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: katherine_presenting_med.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: We meet weekly ☕️
+        content: 'To share your knowledge with the group and pursue common research topics together.'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: circle_discussion_med.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: What are we working on?
+        content: Our main project uses computational and human reading of annual addresses made by presidents of six social science associations to analzye the evolution of social science concepts since 1900. 
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: katherine_screen_med.jpg
             filters:
               brightness: 0.5
           position: center
           color: '#333'
+      - title: Who are we speaking to?
+        content: In addition to scholarly presentations and publications, the lab works to share our insights about the process of research with a broader audience using multiple media channels. 
+        align: center
+        background:
+          image:
+            filename: podcasting_med.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
         link:
           icon: graduation-cap
           icon_pack: fas
