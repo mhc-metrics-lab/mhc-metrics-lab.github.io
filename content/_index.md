@@ -1,21 +1,21 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2024-03-18
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Collaboration,
+        Multidisciplinarity,
         Measurement & Meaning
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The Mount Holyoke College **metrics lab** at has been supporting team based research at the intersection of Sociology and Data Science since 2022.
+        The [Mount Holyoke College](https://www.mtholyoke.edu)) **metrics lab** at has been supporting team based research that builds on the insights of Sociology and Data Science since 2022.
   
   - block: collection
     content:
