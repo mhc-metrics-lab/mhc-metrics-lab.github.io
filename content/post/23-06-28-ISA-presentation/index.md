@@ -1,5 +1,5 @@
 ---
-title: The METRICS Lab at the ISA World Congress in Melbourne
+title: The metrics lab at the ISA World Congress in Melbourne
 date: 2023-06-28
 ---
 
