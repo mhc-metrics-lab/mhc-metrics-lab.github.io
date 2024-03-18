@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the METRICS Lab
+      - title: 👋 Welcome to the *metrics lab*
         content: We do Mixed Expertise Textual Research in Cultural Sociology.  
         align: center
         background:
