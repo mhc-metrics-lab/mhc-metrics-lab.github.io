@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The [Mount Holyoke College](https://www.mtholyoke.edu)) **metrics lab** at has been supporting team based research that builds on the insights of Sociology and Data Science since 2022.
+        The [Mount Holyoke College](https://www.mtholyoke.edu) **metrics lab** at has been supporting team based research that builds on the insights of Sociology and Data Science since 2022.
   
   - block: collection
     content:
