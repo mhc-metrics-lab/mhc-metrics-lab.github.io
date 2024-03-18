@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **METRICS Lab** at Mount Holyoke College has been supporting team based research at the intersection of Sociology and Data Science since 2022.
+        The Mount Holyoke College **metrics lab** at has been supporting team based research at the intersection of Sociology and Data Science since 2022.
   
   - block: collection
     content:
