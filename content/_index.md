@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Collaboration,
+        Measurement & Meaning
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **METRICS Lab** at Mount Holyoke College has been supporting team based research at the intersection of Sociology and Data Science since 2022.
   
   - block: collection
     content:
