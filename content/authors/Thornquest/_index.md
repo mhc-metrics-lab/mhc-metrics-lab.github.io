@@ -8,13 +8,13 @@ last_name: Thornquest
 
 # Username (this should match the folder name)
 authors:
-  - JiaThornquestng
+  - Thornquest
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Sociology Team Member '04
+role: Sociology Team Member '24
 
 # Organizations/Affiliations
 organizations:
