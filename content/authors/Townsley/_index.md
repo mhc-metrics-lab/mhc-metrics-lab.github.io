@@ -61,7 +61,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Faculty Leads
 ---
 
 Eleanor Townsley is a sociologist who teaches courses in the cultural sociology, social theory, sociology of gender, survey research and data analysis, and an archival and field methods class based in the Mount Holyoke College Archives. She says she especially enjoys teaching the introductory course in sociology.
