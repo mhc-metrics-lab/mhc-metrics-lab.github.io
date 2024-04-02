@@ -18,6 +18,12 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: Join Us
+          url: ../contact/
+
       - title: We meet weekly ☕️
         content: 'To share your knowledge with the group and pursue common research topics together.'
         align: left
@@ -49,10 +55,10 @@ sections:
           position: right
           color: '#666'
         link:
-          icon: graduation-cap
+          icon: address-card
           icon_pack: fas
-          text: Join Us
-          url: ../contact/
+          text: About the lab
+          url: ../post/22-09-01-metrics-lab/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
