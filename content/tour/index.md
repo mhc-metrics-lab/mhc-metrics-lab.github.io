@@ -19,7 +19,7 @@ sections:
           position: right
           color: '#666'
         link:
-          icon: address-card
+          icon: circle-info
           icon_pack: fas
           text: About the lab
           url: ../post/22-09-01-metrics-lab/
