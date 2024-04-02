@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Sociology Team
+role: Sociology Team '24
 
 # Organizations/Affiliations
 organizations:
