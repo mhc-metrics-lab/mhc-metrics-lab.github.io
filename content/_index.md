@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The [Mount Holyoke College](https://www.mtholyoke.edu) **metrics lab** launched in 2022 to support team research that draws insights from Sociology and Data Science.
+        The [mhc](https://www.mtholyoke.edu) **metrics lab** launched in 2022 to support team research that draws insights from Sociology and Data Science.
   
   - block: collection
     content:
