@@ -1,8 +1,8 @@
 ---
 title: What is the mhc metrics lab?
 date: 2022-12-02
-authors: Thornquest
-#authors: ["Thornquest"]
+authors: ["Thornquest"]
+#authors: Thornquest
 # image:
 # focal_point: 'TopLeft'
 ---
