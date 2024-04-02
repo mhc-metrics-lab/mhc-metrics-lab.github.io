@@ -9,7 +9,7 @@ The mhc metrics lab has been supporting mixed-expertise textual research in cult
 
 <!--more-->
 
-The mhc metrics lab has been supporting mixed-expertise textual research in cultural sociology (metrics) at the intersection of social and data science since 2022. This innovative lab, hosted by the MHC Sociology department, serves as a dynamic learning collaborative that brings together students from various disciplines, including social, data, and computer sciences through hands-on research.
+This innovative lab, hosted by the MHC Sociology department, serves as a dynamic learning collaborative that brings together students from various disciplines, including social, data, and computer sciences through hands-on research.
 
 The lab operates with a unique approach, emphasizing mixed-expertise teams that integrate diverse perspectives and skill sets. Through weekly collaborative work sessions and semester-long individual projects,  students delve into computational and qualitative text analysis methods to gain insights into historically significant questions in the social sciences. This initiative not only provides students with valuable research experiences but also encourages interdisciplinary collaboration to address complex questions. 
 
