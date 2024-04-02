@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Data Science Team Member '25
+role: Data Science Team '25
 
 # Organizations/Affiliations
 organizations:
