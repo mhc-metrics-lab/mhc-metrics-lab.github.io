@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Sociology Team Member '05
+role: Sociology Team Member '25
 
 # Organizations/Affiliations
 organizations:
