@@ -54,9 +54,9 @@ sections:
           position: right
           color: '#666'
         link:
-          icon: graduation-cap
+          icon: circle-nodes
           icon_pack: fas
-          text: Join Us
+          text: Connect with the lab
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
