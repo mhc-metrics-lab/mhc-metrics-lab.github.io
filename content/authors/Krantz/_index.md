@@ -56,4 +56,4 @@ user_groups:
   - Researchers
 ---
 
-More info about me coming soon.
+Celina Krantz is a sociology and Spanish double major in the class of 2024. As a member of the lab, they are interested in the ways that the social sciences envision, articulate, and work to reproduce their disciplinary and professional identities. Outside of the lab, Celina knits, laughs, plays ultimate, and thinks about words.
