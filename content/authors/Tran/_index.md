@@ -56,4 +56,4 @@ user_groups:
   - Researchers
 ---
 
-More info about me coming soon.
+Minh (Robin) is a member of the class of 2025 majoring in Data Science at Mount Holyoke. Minh focuses on utilizing data science techniques to solve complex problems that arise in their world. Specifically, they are interested in advancement of automated processes and workflows within AI and data science, with a keen interest in the fields of NLP and LLMs. Beyond professional aspirations, Minh is dedicated to leveraging data science for social good. They aim to create accessible, user-friendly applications that serve educational and environmental purposes.
