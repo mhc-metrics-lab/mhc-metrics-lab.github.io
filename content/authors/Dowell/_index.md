@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Data Science Team '25
+role: Data Science Team '24
 
 # Organizations/Affiliations
 organizations:
@@ -31,7 +31,7 @@ education:
   courses:
     - course: B.A. 
       institution: Mount Holyoke College
-      year: 2025
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
