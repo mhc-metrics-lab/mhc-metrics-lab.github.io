@@ -56,4 +56,4 @@ user_groups:
   - Researchers
 ---
 
-More info about me coming soon.
+Hema Motiani is a Computer Science and Mathematics major at Mount Holyoke College. Her Research Interests include transforming data into forms that we can apply unsupervised machine learning algorithms to, for the purpose of analysis and seeing patterns in the data. She is also interested in the field of Artificial Intelligence and the intersection of it with the health care sector. Her passion is to use her computational skills to advance global health care and help non-profit organisations. She is involved on the board of the Association of Women in Mathematics and organises events as a Residential advisor on campus. Fun fact: Hema loves experimenting with makeup and trying new food!
