@@ -56,4 +56,4 @@ user_groups:
   - Researchers
 ---
 
-More info about me coming soon.
+Sanskriti Giri (Class of 2026) is a double major in economics and data science who enjoys working with data to reveal patterns and insights. She is particularly interested in the intersection of economics, policy, and data, and wants to leverage data to create effective policies. In her free time, Sanskriti enjoys dancing and traveling to new places. Fun fact: Sanskriti speaks 3 languages. Can you guess what they might be?
