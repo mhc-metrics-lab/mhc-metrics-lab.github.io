@@ -56,4 +56,4 @@ user_groups:
   - Researchers
 ---
 
-More info about me coming soon.
+Hanh Minh Pham is a Computer Science & Statistics major in Class of 2026. Her focus lies in the intersection of data science and public good. She is interested in leveraging machine learning for advancing public health, government policies, and environmental sustainability. Beyond academia, Hanh works as a teaching assistant, is involved in interdisciplinary projects, open-source contributions, and collaborations with NGOs. In her free time, she does sports and listens to 80s music.
