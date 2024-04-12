@@ -56,4 +56,4 @@ user_groups:
   - Researchers
 ---
 
-More info about me coming soon.
+Fiona Dowell is a Data Science team member who helps the metrics team by researching data science applications to social science text data. Fiona has practiced utilizing and implementing data science and machine learning algorithms and models in various contexts in both Python and R. Currently, she is working toward a Bachelor’s Degree in Data Science and Spanish from Mount Holyoke College. When she is not working, Fiona enjoys hiking and playing strategic board games.
