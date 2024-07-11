@@ -1,5 +1,5 @@
 ---
-title: MHC Metrics Lab Members Featured on WMHC Radio
+title: mhc metrics lab members featured on WMHC Radio
 date: 2024-04-17
 authors: ["Thornquest"]
 ---
