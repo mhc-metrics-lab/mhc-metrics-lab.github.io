@@ -53,7 +53,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Alumni
 ---
 
-Katherine Delamere is a Sociology and Spanish double major in the Class of 2025. She is most interested in how language exchange, restorative/transformative justice, and computer science can intersect to provide opportunities for community connection and social equity. She is Vice President of MHC’s Circle K International Club, focusing on community engagement, service and connection, and is a dedicated member of MHC’s Planned Parenthood: Generation Action Club. Katherine hopes to continue pursuing the intersections of data science and social justice, as she believes that by focusing on points of connection through effective and creative communication, community healing can grow. Fun fact: Katherine is a professional cheesemonger.
+While at MHC, Katherine Delamere was a Sociology and Spanish double major in the Class of 2025. She is most interested in how language exchange, restorative/transformative justice, and computer science can intersect to provide opportunities for community connection and social equity. She was Vice President of MHC’s Circle K International Club, focusing on community engagement, service and connection, and was a dedicated member of MHC’s Planned Parenthood: Generation Action Club. Katherine hopes to continue pursuing the intersections of data science and social justice, as she believes that by focusing on points of connection through effective and creative communication, community healing can grow. Fun fact: Katherine is a professional cheesemonger.
