@@ -53,7 +53,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Alumni
 ---
 
-Becky Marcus is a Data Science Major in the Class of 2025 with a concentration in Sociology. She takes great pleasure in creatively solving problems of technical and social science domains alike. Becky also works as a Peer Health Educator and is deeply committed to promoting harm reduction and informed decision making on campus. They are interested in pursuing a career where they can use their data science expertise to combat structural inequality. In her free time, Becky enjoys reading science fiction novels and contemplating their sociological perspectives on power, gender, class, and the like. 
+Becky Marcus graduated as Data Science Major in the Class of 2025 with a concentration in Sociology. She takes great pleasure in creatively solving problems of technical and social science domains alike. Becky also worked as a Peer Health Educator and is deeply committed to promoting harm reduction and informed decision making on campus. They are interested in pursuing a career where they can use their data science expertise to combat structural inequality. In her free time, Becky enjoys reading science fiction novels and contemplating their sociological perspectives on power, gender, class, and the like. 
