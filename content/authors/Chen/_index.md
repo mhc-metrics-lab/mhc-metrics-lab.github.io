@@ -56,4 +56,4 @@ user_groups:
   - Researchers
 ---
 
-Comming soon.
+Milly is a member of the class of 2027 at Mount Holyoke College majoring in Sociology. Beyond academic work, Milly is a beginner rider of Hunt Seat Team and Western Riding Club. 
