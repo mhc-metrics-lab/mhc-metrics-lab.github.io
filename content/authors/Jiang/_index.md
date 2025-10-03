@@ -53,7 +53,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Alumni
 ---
 
-Coco is a double major in Sociology and Psychology, class 2025. As a lab member, her research focuses on debates around computational text analysis and the use of data in presidential addresses. Interested in combining interdisciplinary knowledge with action, Coco has long-term volunteer experience, ranging from mental health education for primary schoolers to literacy tutoring for adults. Currently, she is exploring user experience design in EdTech to better understand its role in educational practices. Outside of her studies, Coco is a pianist with a passion for Impressionist compositions, an amateur chef who constantly experiments with new recipes, and the media and web designer for the MHC Psych Association.
+Coco was double major in Sociology and Psychology, class 2025. As a lab member, her research focused on debates around computational text analysis and the use of data in presidential addresses. Interested in combining interdisciplinary knowledge with action, Coco has long-term volunteer experience, ranging from mental health education for primary schoolers to literacy tutoring for adults. Coco is interested exploring user experience design in EdTech to better understand its role in educational practices. Outside of her studies, Coco is a pianist with a passion for Impressionist compositions, an amateur chef who constantly experiments with new recipes, and the media and web designer for the MHC Psych Association.
