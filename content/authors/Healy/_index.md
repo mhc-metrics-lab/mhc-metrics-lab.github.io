@@ -56,4 +56,4 @@ user_groups:
   - Researchers
 ---
 
-Comming Soon
+Aoife Paul Healy is a Political Science and Sociology double major, with a Nexus in Journalism, Media, and Public Discourse. At Mount Holyoke College, she is a Research Assistant for the Politics Department and a Student Mentor at the Speaking, Arguing, & Writing Center. Her work inspects partisan rhetorical strategies and public political communication. 
