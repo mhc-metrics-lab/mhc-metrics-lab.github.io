@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Bryn Healy
+title: Aoife Paul Healy
 
 # Full name (for SEO)
-first_name: Bryn
-last_name: Healy
+first_name: Aoife
+last_name: Paul Healy
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Sociology Team '24
+role: Sociology Team '26
 
 # Organizations/Affiliations
 organizations:
@@ -31,7 +31,7 @@ education:
   courses:
     - course: B.A. 
       institution: Mount Holyoke College
-      year: 2024
+      year: 2026
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -53,7 +53,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Alumni
+  - Researchers
 ---
 
-Healy is a sociology and politics double major in the Class of 2024. She also has a nexus in Law, Public Policy, and Human Rights. Healy worked in the Sociology and Anthropology Department during the 2022-2023 school year. She was the Promotions Director for The Mount Holyoke Review and the Mount Holyoke Jazz Ensembles for her junior year along with being a co-News Editor for The Mount Holyoke News. She has a passion for disability justice and is a member of the Speaker’s Bureau of the Asperger / Autism Network.
+Comming Soon
