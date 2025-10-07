@@ -56,4 +56,4 @@ user_groups:
   - Alumni
 ---
 
-Estelle Slocum is a Sociology and Spanish double major and member of the class of 2025. She is most interested in the political power language holds and how education can be a tool for social change and justice. Her passions include accessibility in informal and formal educational spaces, advocating for care laborers, and researching neoliberalism. For fun Estelle loves binge watching reality tv and writing poetry.
+Estelle Slocum was a Sociology and Spanish double major and member of the class of 2025. She has been most interested in the political power language holds and how education can be a tool for social change and justice. Her passions include accessibility in informal and formal educational spaces, advocating for care laborers, and researching neoliberalism. For fun Estelle loves binge watching reality tv and writing poetry.
